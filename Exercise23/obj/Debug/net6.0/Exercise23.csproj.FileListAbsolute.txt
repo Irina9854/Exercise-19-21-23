@@ -1,0 +1,15 @@
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\bin\Debug\net6.0\Exercise23.exe
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\bin\Debug\net6.0\Exercise23.deps.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\bin\Debug\net6.0\Exercise23.runtimeconfig.json
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\bin\Debug\net6.0\Exercise23.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\bin\Debug\net6.0\Exercise23.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.csproj.AssemblyReference.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfoInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfo.cs
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.csproj.CoreCompileInputs.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\refint\Exercise23.dll
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.pdb
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\Exercise23.genruntimeconfig.cache
+C:\Users\дджджьдж\Desktop\Гит\Seminar3\Exercise23\obj\Debug\net6.0\ref\Exercise23.dll
